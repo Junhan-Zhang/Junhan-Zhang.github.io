@@ -21,7 +21,11 @@ repository               : "Junhan-Zhang/Junhan-Zhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+<<<<<<< HEAD
   avatar           : "Junhan_Zhang_S.jpg"
+=======
+  avatar           : "Junhan_Zhang.jpg"
+>>>>>>> 77bd70c352fd35750fd99ad246c051dd852e6bb5
   name             : "Junhan Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Master student at Tongji University"
