@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Junhan Zhang's Academic Page"
+title: "Welcome to Junhan Zhang's Homepage"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ Hello! My name is **Junhan Zhang (Julien, 张峻涵)**. I am currently a Master'
 
 My primary research interests focus on technology and innovation management, particularly in the area of technology transfer between universities and industries. Before joining SICIP for my studies in Intellectual Property Management, I majored in Geophysics at the School of Ocean and Earth Science at Tongji University.
 
-I had the great honor of being advised by [*Mei Xue*](https://ocean.tongji.edu.cn/space/meixue/), [*Nan Wu*](https://mgg.tongji.edu.cn/mggen/53/04/c24028a217860/page.htm), and [*Guangfa Zhong*](https://ocean.tongji.edu.cn/space/gfz/) during my undergraduate studies, and I am currently supervised by [*Xuhua Chang*](https://sicip.tongji.edu.cn/13/dc/c13550a136156/page.htm) in my Master's program. Please find my CV [*here*](../assets/Junhan_Zhang_CV_2024.pdf).
+I had the great honor of being advised by [*Mei Xue*](https://ocean.tongji.edu.cn/space/meixue/), [*Nan Wu*](https://mgg.tongji.edu.cn/mggen/53/04/c24028a217860/page.htm), and [*Guangfa Zhong*](https://ocean.tongji.edu.cn/space/gfz/) during my undergraduate studies, and I am currently supervised by [*Xuhua Chang*](https://sicip.tongji.edu.cn/13/dc/c13550a136156/page.htm) in my Master's program. Please find my CV [*here*](../files/Junhan_Zhang_CV_2024.pdf).
 
 ## Research Interests
 
