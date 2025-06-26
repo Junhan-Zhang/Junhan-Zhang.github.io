@@ -36,5 +36,5 @@ You can find my CV [*here*](../files/Junhan_Zhang_CV_2025.pdf).
 
 ## Skills
 
-- Programming: C/C++, Python (NumPy, pandas, PyTorch, BeautifulSoup), R, MATLAB, SQL, Stata, LaTeX
+- Programming: C/C++, Python, R, MATLAB, SQL, Stata, LaTeX
 - Languages: Chinese (Mandarin, Native), English (Proficient, C1 level)
