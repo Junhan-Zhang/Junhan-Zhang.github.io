@@ -41,4 +41,4 @@ You can find my CV [*here*](../files/Junhan_Zhang_CV_2025.pdf).
 
 ---
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=m&d=AD1PNuVWWlXC6WcES9LOi-DhGf18BHVB3IIl6sqfIkk&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=590&t=n&d=AD1PNuVWWlXC6WcES9LOi-DhGf18BHVB3IIl6sqfIkk&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
