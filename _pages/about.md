@@ -10,14 +10,14 @@ Hello! My name is **Junhan Zhang (张峻涵)**. I am a PhD student at Nanyang Te
 
 My academic journey has taken me from earth sciences to innovation policy, and I remain deeply curious about how knowledge flows across disciplines, institutions, and national contexts.
 
-You can find my CV [*here*](../files/Junhan_Zhang_CV_2025.pdf).
+You can find my CV [*here*](../files/Junhan_Zhang_CV_2025.11.pdf).
 
 ## Research Interests
 
+- Inequality in science
 - AI and policy
 - Research evaluation
 - Intellectual Property Management
-- Innovation management
 
 ## Education
 
@@ -27,7 +27,9 @@ You can find my CV [*here*](../files/Junhan_Zhang_CV_2025.pdf).
 
 ## Publications and Working Papers
 
-1. **Junhan Zhang**, Xuhua Chang, Hairui Liu* and Wenjing Yao. Thematic similarity as a mediator of the cumulativeadvantage in research output: An analysis of NSFC projects, *revision* at ***Research Evaluation***.
+1. Hairui Liu, **Junhan Zhang**, Xuhua Chang*, Lei Gong. (2025). Academic Patents Assigned to University Technology-Based Companies in China: Commercialisation Selection Strategies and Their Influencing Factors. *Economics-The Open Access Open-Assessment E-Journal*.
+2. Xuhua Chang, Hairui Liu*, Junhan Zhang, Wenjing Yao. (2025). Study on the Impact of “UniversityTeacher” Intervening in Spin-off Firms on the Speed of University Patent Assignment. *Science of Science and Management of S.& T*. (In Chinese)
+3. **Junhan Zhang**, Xuhua Chang, Hairui Liu* and Wenjing Yao. Thematic similarity as a mediator of the cumulativeadvantage in research output: An analysis of NSFC projects. Revised and resubmitted to ***Research Evaluation***.
 
 ## Work & Internship
 
