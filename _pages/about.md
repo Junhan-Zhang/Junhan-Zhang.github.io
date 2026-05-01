@@ -10,7 +10,7 @@ Hello! My name is **Junhan Zhang (张峻涵)**. I am a PhD student at Nanyang Te
 
 My academic journey has taken me from earth sciences to innovation policy, and I remain deeply curious about how knowledge flows across disciplines, institutions, and national contexts.
 
-You can find my CV [*here*](../files/Junhan_Zhang_CV_2025.11.pdf).
+You can find my CV [*here*](../files/Junhan_Zhang_CV_2026.05.pdf).
 
 ## Research Interests
 
