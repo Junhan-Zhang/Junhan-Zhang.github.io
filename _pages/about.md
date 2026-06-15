@@ -30,6 +30,7 @@ You can find my CV [*here*](../files/Junhan_Zhang_CV_2026.05.pdf).
 1. Hairui Liu, **Junhan Zhang**, Xuhua Chang\*, Lei Gong. (2025). Academic Patents Assigned to University-Technology-Based Companies in China: Commercialisation Selection Strategies and Their Influencing Factors. *Economics*.
 2. Xuhua Chang, Hairui Liu\*, **Junhan Zhang**, Wenjing Yao. (2025). Study on the Impact of “University-Teacher” Intervening in Spin-off Firms on the Speed of University Patent Assignment. *Science of Science and Management of S.& T*. (In Chinese)
 3. **Junhan Zhang**, Xuhua Chang, Hairui Liu\* and Wenjing Yao. Thematic similarity as a mediator of the cumulativeadvantage in research output: An analysis of NSFC projects. Revise & Resubmit at *Research Evaluation*.
+4. **Junhan Zhang**, Jue Wang*. Open Access and knowledge inequality: Evidence from developing countries.
 
 ## Work & Internship
 
@@ -40,7 +41,3 @@ You can find my CV [*here*](../files/Junhan_Zhang_CV_2026.05.pdf).
 
 - Programming: C/C++, Python, R, MATLAB, SQL, Stata, LaTeX
 - Languages: Chinese (Mandarin, Native), English (Proficient, C1 level)
-
----
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=590&t=n&d=AD1PNuVWWlXC6WcES9LOi-DhGf18BHVB3IIl6sqfIkk&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
