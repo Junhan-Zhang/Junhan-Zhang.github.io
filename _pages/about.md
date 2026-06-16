@@ -21,10 +21,10 @@ You can find my CV [*here*](../files/Junhan_Zhang_CV_2026.05.pdf).
 
 ## Education
 
-| **Nanyang Technological University**<br>PhD in Public Policy and Global Affairs, School of Social Sciences | *Aug. 2025 - Present* |
-| **Tongji University**<br>Master of Management Science in Intellectual Property, Shanghai International College of Intellectual Property (SICIP) | *Sep. 2021 - Jul. 2025* |
-| **Rheinisch-Westfälische Technische Hochschule Aachen (RWTH Aachen University)**<br>Exchange student, RWTH Business School | *Oct. 2023 - Apr. 2024* |
-| **Tongji University**<br>Bachelor of Science in Geophysics, School of Ocean and Earth Science | *Sep. 2017 - Jul. 2021* |
+| **Nanyang Technological University**<br>PhD in Public Policy and Global Affairs | *Aug. 2025 - Present* |
+| **Tongji University**<br>Master of Management Science in Intellectual Property | *Sep. 2021 - Jul. 2025* |
+| **Rheinisch-Westfälische Technische Hochschule Aachen (RWTH Aachen University)**<br>Exchange student | *Oct. 2023 - Apr. 2024* |
+| **Tongji University**<br>Bachelor of Science in Geophysics | *Sep. 2017 - Jul. 2021* |
 
 ## Publications and Working Papers
 
