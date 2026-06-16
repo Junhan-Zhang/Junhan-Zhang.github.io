@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! My name is **Junhan Zhang (张峻涵)**. I am a PhD student at Nanyang Technological University, where I am supervised by Prof. [Jue Wang](https://dr.ntu.edu.sg/entities/person/Wang-Jue). My research interest lies mainly at the Science, Technology and Innovation Policy, with a particular interest in the application of AI related tools to solve policy issues. Prior to joining NTU, I completed my Master of Management Science in Intellectual Property at Tongji University, under the supervision of Prof. [Xuhua Chang](https://sicip.tongji.edu.cn/13/dc/c13550a136156/page.htm). I also hold a Bachelor of Science in Geophysics from Tongji University, where I was fortunate to be mentored by Prof. [Mei Xue](https://mgg.tongji.edu.cn/25/ac/c22875a206252/page.htm), Prof. [Nan Wu](https://mgg.tongji.edu.cn/25/a8/c22871a206248/page.htm), and Prof. [Guangfa Zhong](https://ocean.tongji.edu.cn/space/gfz/).
+Hello! My name is **Junhan Zhang (张峻涵)**.Currently, I am a PhD student at Nanyang Technological University, where I am supervised by Prof. [Jue Wang](https://dr.ntu.edu.sg/entities/person/Wang-Jue). My research interest lies mainly at the Science, Technology and Innovation Policy, with a particular interest in the social impact of AI. Prior to joining NTU, I completed my Master of Management Science at Tongji University, under the supervision of Prof. [Xuhua Chang](https://sicip.tongji.edu.cn/13/dc/c13550a136156/page.htm). I also hold a Bachelor of Science in Geophysics from Tongji University, where I was fortunate to be mentored by Prof. [Mei Xue](https://mgg.tongji.edu.cn/25/ac/c22875a206252/page.htm), Prof. [Nan Wu](https://mgg.tongji.edu.cn/25/a8/c22871a206248/page.htm), and Prof. [Guangfa Zhong](https://ocean.tongji.edu.cn/space/gfz/).
 
-My academic journey has taken me from earth sciences to innovation policy, and I remain deeply curious about how knowledge flows across disciplines, institutions, and national contexts.
+My academic journey has taken me from earth sciences to innovation studies. While my research interests have evolved, the training I received in geophysics continues to shape my approach to research, particularly in understanding how emerging technologies such as AI interact with society and the policy challenges they raise.
 
 You can find my CV [*here*](../files/Junhan_Zhang_CV_2026.05.pdf).
 
@@ -21,10 +21,12 @@ You can find my CV [*here*](../files/Junhan_Zhang_CV_2026.05.pdf).
 
 ## Education
 
-| **Nanyang Technological University**<br>PhD in Public Policy and Global Affairs | *Aug. 2025 - Present* |
-| **Tongji University**<br>Master of Management Science in Intellectual Property | *Sep. 2021 - Jul. 2025* |
-| **Rheinisch-Westfälische Technische Hochschule Aachen (RWTH Aachen University)**<br>Exchange student | *Oct. 2023 - Apr. 2024* |
-| **Tongji University**<br>Bachelor of Science in Geophysics | *Sep. 2017 - Jul. 2021* |
+| | |
+| :--- | ---: |
+| **Nanyang Technological University**<br>*PhD in Public Policy and Global Affairs* | *Aug. 2025 - Present* |
+| **Tongji University**<br>*Master of Management Science in Intellectual Property* | *Sep. 2021 - Jul. 2025* |
+| **RWTH Aachen University**<br>*Exchange student* | *Oct. 2023 - Apr. 2024* |
+| **Tongji University**<br>*Bachelor of Science in Geophysics* | *Sep. 2017 - Jul. 2021* |
 {: .education-table }
 
 ## Publications and Working Papers
