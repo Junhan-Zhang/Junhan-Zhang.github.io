@@ -21,16 +21,20 @@ You can find my CV [*here*](../files/Junhan_Zhang_CV_2026.05.pdf).
 
 ## Education
 
-- *Sep. 2021 - Jul. 2025*, **Master of Management Science in Intellectual Property**, Shanghai International College of Intellectual Property (SICIP), **Tongji University**, China
-- *Oct. 2023 - Apr. 2024*, **Exchange student**, RWTH Business School, **Rheinisch-Westfälische Technische Hochschule Aachen (RWTH Aachen University)**, Germany
-- *Sep. 2017 - Jul. 2021*, **Bachelor of Science in Geophysics**, School of Ocean and Earth Science, **Tongji University**, China
+| Institution | Period |
+| :--- | ---: |
+| **Nanyang Technological University**, Singapore<br>PhD in Public Policy and Global Affairs, School of Social Sciences | *Aug. 2025 - Aug. 2029 (expected)* |
+| **Tongji University**, China<br>Master of Management Science in Intellectual Property, Shanghai International College of Intellectual Property (SICIP) | *Sep. 2021 - Jul. 2025* |
+| **Rheinisch-Westfälische Technische Hochschule Aachen (RWTH Aachen University)**, Germany<br>Exchange student, RWTH Business School | *Oct. 2023 - Apr. 2024* |
+| **Tongji University**, China<br>Bachelor of Science in Geophysics, School of Ocean and Earth Science | *Sep. 2017 - Jul. 2021* |
+{: .education-table }
 
 ## Publications and Working Papers
 
 1. Hairui Liu, **Junhan Zhang**, Xuhua Chang\*, Lei Gong. (2025). Academic Patents Assigned to University-Technology-Based Companies in China: Commercialisation Selection Strategies and Their Influencing Factors. *Economics*.
 2. Xuhua Chang, Hairui Liu\*, **Junhan Zhang**, Wenjing Yao. (2025). Study on the Impact of “University-Teacher” Intervening in Spin-off Firms on the Speed of University Patent Assignment. *Science of Science and Management of S.& T*. (In Chinese)
 3. **Junhan Zhang**, Xuhua Chang, Hairui Liu\* and Wenjing Yao. Thematic similarity as a mediator of the cumulativeadvantage in research output: An analysis of NSFC projects. Revise & Resubmit at *Research Evaluation*.
-4. **Junhan Zhang**, Jue Wang*. Open Access and knowledge inequality: Evidence from developing countries.
+4. **Junhan Zhang**, Jue Wang*. Pathway to knowledge equity: How does Open Access promote scientific development for developing countries
 
 ## Work & Internship
 

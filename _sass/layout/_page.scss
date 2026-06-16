@@ -100,6 +100,25 @@
     font-size: $type-size-6;
   }
 
+  .education-table {
+    border: 0;
+
+    thead {
+      display: none;
+    }
+
+    th,
+    td {
+      border: 0;
+      padding: 0.35em 0;
+      vertical-align: top;
+    }
+
+    td:last-child {
+      white-space: nowrap;
+    }
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
